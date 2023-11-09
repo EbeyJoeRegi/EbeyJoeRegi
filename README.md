@@ -1,4 +1,4 @@
-![MasterHead](https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg)
+![MasterHead]([https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg](https://media.licdn.com/dms/image/D5616AQFjDZeNkJVulA/profile-displaybackgroundimage-shrink_350_1400/0/1699421441280?e=1704931200&v=beta&t=53zipdUxwJoSsFNGmAfw262qR1bFK-Xv_YFN2O6Bjfo))
 <h1 align="center">Hi 👋, I'm Ebey Joe Regi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
