@@ -23,8 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebeyjoeregi&show_icons=true&locale=en" alt="ebeyjoeregi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebeyjoeregi&" alt="ebeyjoeregi" /></p>
-To play game, go inside the 'Grand.Theft.Auto.V.v1.0.3028' folder, right click and run 'GTA5' as administrator
-
-If you get any missing dll errors or the game isn't launching, go inside the _Redist folder and install all 8 programs in the folder
-
-For more FREE STEAM GAMES, visit steamunlocked.net
